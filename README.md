@@ -218,8 +218,3 @@ rappiplus-analisis/
 3. Revisar las consultas SQL del funnel y la retención por cohortes.
 4. Abrir el archivo `.pbix` con Power BI Desktop.
 5. Si Power BI no encuentra los CSV, modificar la ruta de origen desde **Transformar datos → Configuración de origen de datos** y actualizar el modelo.
-
-## Autor
-
-**Jesús Pozas Rivera**  
-Proyecto académico de análisis de datos — TripleTen.
